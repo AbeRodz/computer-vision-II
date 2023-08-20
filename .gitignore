@@ -1,0 +1,7 @@
+*.pth
+*.png
+.video
+*mp4
+*.avi
+*.bin
+/dataset
